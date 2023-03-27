@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "binaamanhaji",
+  "private_key_id": "ede76e2db18a8dc4397848a406b73cc7331f80a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCROLKxPxHGWjPL\ni/g+cKJloLoUdoz8E57M3RmlkKMIYyYxV+1T1VLqOJaJmaIF5Ealsb82K/GDFIfC\nCZhf489D9n4cneXCMYDA6BmahHXu/jY+SwzzgmyjKvf8eZG/EqB/HS896xHzf++v\niehTd6CkpKBFDncQ3hPYVAVevwWNeJijBLWx6OMf/FdpLV9wtHgLhSEEVtGZQpv7\nRNZlGwyBIaNnHsySioRsftjDUP3cwGKotg5KwVMWy3ZjxQO2j12YlgmAz0fUX2dz\nDAHNifJCH7k/c0h7LlSSUrVgeaLsNRh2lPqtVMQNWlTGfGhfnpO5eY9T/wXVLCTw\nC5XidaeVAgMBAAECggEAAoFKX9FZMqU6sH+tHBKgUoV3wEOdQfnqqtkDiL4aedoP\n/hjosKIE6KJqQlxilZxu9Yu/4yTV6S9w+hFlTf4lhKQbX83/eR6WfH1kd6xiRmmf\nMOrlgcvVqOjkVzgXogaluxubRYOpDxy9WzdTSSFOpZhrZVWPCzzxdbFZWF2OMHcF\n76DbYNiYwdkftTfrICoDDtEkfibDD3D+eob86Ty2dbsNNlxguS7rAjXpGm4MOwlu\nm2Ky+ZM9fW44OnJfNl5LchNDAvRft2HA0m6vlEJGROl01ZuWj2Y+e3UhLcHLeL50\nIIYQ+3gJhHUhQVExF7NvKvMhGYZn/+b5bJbGB22B3wKBgQDFYutXl+wUHRgqBc9A\n0Mbc6ezBFjdFmyyd5RP7DHYvq5rT4MW834Jmzf7o9sJAam8qnUdPd9yLY/qLXlJo\nn0iO81ifqHJ/2YvoDxxPD49cGW6me0NduDOmh+NX9b2GrIRkPlflRrSz/EdOjfgy\nZFLXVTwGYkh7C87QcF/GJxupNwKBgQC8WENCUMsxame7Ljyj+/LDl02Tm2lvMAFn\nYWEas2v6vPRPtuaSkp4YJ77uefugGjEk1nzRGqEOpsRQbrk4wgRi/6i6+lsLSlEE\nYwdcBly+4KFHg6q6MPbbZeUWVnlBmqBQ0F5BxtyHEQp7/GgJ2TWS3VKyWWzT3A1u\n3Zo8J7LrkwKBgHH5Rk8TyBttGVDafeu9IbbZ0/1CKLQmf8LETZ8+eNfZzNLfDQ6c\nOJ3IAJLgORYc3wfKPSzj1xMdrcPfuNH0d18joF7AUy0DnsdmQkBcibjybnPu5N0u\nyZQ1Ds7xdHhZETEY1oPrKdhrqXjwfQoL59Gyw7Aj/BognVC6MnMmjdBNAoGBAJwQ\nwwLTcduroPLAeG0lW17pI9YY5D/G1pL0ZQM8A1CMfCEFnH990FSRsqtnFrLuoSQ2\nOs0GNMiwNWG0rfQzCHGECSuOQhzT4tgwuqttdjKQbfOVTcXkxti70R02YFmVKBxu\n3HvCrX+aBkcAurDWdIcSr/CrGvtejx77r08DUkXTAoGATAEmQiPiqOKIdxlgfv+W\n5SS8ntAycxKHNYG0oUTVTilxXxHQ+wDappGYjTva14rU5Ri+NTuTvtihX1fFsoxC\nTCYSx5ezxu4gKVIB4FziFx8CUvDSRQs3v/+kmzkVjUKBHBiNuM8O9YY++NBrEpx5\nicHCvtS2PsfWhFYbGDJO3zs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "albinaatelebot@binaamanhaji.iam.gserviceaccount.com",
+  "client_id": "103763272991957804226",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/albinaatelebot%40binaamanhaji.iam.gserviceaccount.com"
+}
